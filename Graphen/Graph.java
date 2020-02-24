@@ -1,3 +1,5 @@
+package Graphen;
+
 /**
  * <p>
  * Materialien zu den zentralen NRW-Abiturpruefungen im Fach Informatik ab 2018
@@ -6,13 +8,15 @@
  * Klasse Graph
  * </p>
  * <p>
- * Die Klasse Graph stellt einen ungerichteten, kantengewichteten Graphen dar. Es koennen 
- * Knoten- und Kantenobjekte hinzugefuegt und entfernt, flache Kopien der Knoten- und Kantenlisten 
- * des Graphen angefragt und Markierungen von Knoten und Kanten gesetzt und ueberprueft werden.
- * Des Weiteren kann eine Liste der Nachbarn eines bestimmten Knoten, eine Liste der inzidenten 
- * Kanten eines bestimmten Knoten und die Kante von einem bestimmten Knoten zu einem 
- * anderen bestimmten Knoten angefragt werden. Abgesehen davon kann abgefragt werden, welches 
- * Knotenobjekt zu einer bestimmten ID gehoert und ob der Graph leer ist.
+ * Die Klasse Graph stellt einen ungerichteten, kantengewichteten Graphen dar.
+ * Es koennen Knoten- und Kantenobjekte hinzugefuegt und entfernt, flache Kopien
+ * der Knoten- und Kantenlisten des Graphen angefragt und Markierungen von
+ * Knoten und Kanten gesetzt und ueberprueft werden. Des Weiteren kann eine
+ * Liste der Nachbarn eines bestimmten Knoten, eine Liste der inzidenten Kanten
+ * eines bestimmten Knoten und die Kante von einem bestimmten Knoten zu einem
+ * anderen bestimmten Knoten angefragt werden. Abgesehen davon kann abgefragt
+ * werden, welches Knotenobjekt zu einer bestimmten ID gehoert und ob der Graph
+ * leer ist.
  * </p>
  * 
  * @author Qualitaets- und UnterstuetzungsAgentur - Landesinstitut fuer Schule
