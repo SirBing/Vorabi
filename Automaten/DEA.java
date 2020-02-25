@@ -34,8 +34,6 @@ class DEA {
         else return false;
     }
 
-    public static void main(String[] args) {
-        new DEA("aababbabb");
-    }
+
 
 }
