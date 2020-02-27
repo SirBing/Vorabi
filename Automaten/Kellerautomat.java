@@ -40,8 +40,6 @@ class Kellerautomat {
         else return false;
     }
 
-    public static void main(String[] args) {
-        new Kellerautomat("aaabbb");
-    }
+  
 
 }
